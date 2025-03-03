@@ -51,6 +51,5 @@ Contributions are welcome! Feel free to:
 This project is **open-source** under the MIT License.
 
 ## 📬 Contact
-- **Email:** yourname@email.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
-- **Website:** [breatheguard.com](https://breatheguard.com)
+- **Email:** azat.bisengaliev27@fizmat.kz
+- **GitHub:** [abisengaliev](https://github.com/yourusername)
